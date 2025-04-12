@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# <<<<<<< HEAD
+
+> > > > > > > 5b7f52e (init commit)
+> > > > > > > 15e5384 (ix)
