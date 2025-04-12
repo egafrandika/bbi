@@ -1,3 +1,7 @@
+<script setup>
+import Header from '@/components/Header.vue'
+</script>
+
 <template>
-  <div class="font-bold">test</div>
+  <Header class="max-w-7xl py-2" />
 </template>
